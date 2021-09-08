@@ -7,7 +7,7 @@ public class reservation {
 	private static int[] seats = new int[12];
 
 	public static void main(String args[]) {
-		System.out.println("Welcome to the DIC lovin train reservation system!");
+		System.out.println("Welcome to the amirtha train reservation system!");
 		System.out.println("Code ninjas, code newbies, one fabulous DIC ride!");
 		System.out.println();
 		
